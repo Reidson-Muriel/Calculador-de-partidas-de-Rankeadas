@@ -1,5 +1,5 @@
 
-let resultado = CalculadoraDePartidas(50, 10);
+let resultado = CalculadoraDePartidas(100, 10);
 console.log(`O heroi tem de saldo de ${resultado.saldo} esta no nivel ${resultado.nivel}`);
 
 function CalculadoraDePartidas(vitoria, derrota){
